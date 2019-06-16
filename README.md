@@ -28,7 +28,7 @@
  - 스마트출석 페이지 리다이렉션
 </pre>
 앱스토어에는 년 간 개발자 등록비 13만원을 지불할 자금이 없어서 출시를 못하는 상황인데 현 총학생회장과 면담을 통해서 지원금을 얻어서 출시를 할 예정입니다! 
-![ex_screenshot](./img/jedaero.png){:width="100" height="100"}  ![ex_screenshot](./img/1st.png) 
+![ex_screenshot](./img/jedaero.png =100*100)  ![ex_screenshot](./img/1st.png) 
 
 2. GIFT ( https://github.com/g-i-f-t/GiftApplication )
 GIFT( Game Industy Funding Trade )는 인디게임을 출시하고 싶지만 초기자본을 구하기 어려운 개발자들을 크라우드 펀딩을 통해 자금을 서비스입니다. 
