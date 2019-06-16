@@ -58,6 +58,6 @@
 #### 작동 과정입니다.
 ![ex_screenshot](./img/arduino.png)<br>
 #### 전체 구성 사진입니다.
-![ex_screenshot](./img/arduino.png)<br>
+![ex_screenshot](./img/wide.png)<br>
 
 
