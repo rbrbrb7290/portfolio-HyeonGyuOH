@@ -16,7 +16,7 @@
 어떤 주제로 기획이 되어도 잘 적응하고, 만들어진 작품을 자식처럼 생각함으로써  더 발전 할 수 있는 방향을 기획 해 나갈 것 입니다!
 
 ## Project 
-### 1. 제대로 가자 ( repo:https://github.com/aerain/jedaeroReactNative )<br> 
+### 1. 제대로 가자 ( 저장소:https://github.com/aerain/jedaeroReactNative )<br> 
 - **개발 정보: React-Native 개발 기간: 2018-07-26 - 2019-04-07**<br>
 &nbsp; &nbsp; 기존에 만들었던 제주대학교에 다양한 정보를 제공하는 웹앱인 '제대로 가자'의 서버 상시 오픈의 문제점과 프론트엔드와 백엔드의 알고리즘의 문제점을 고치고, 앱을 통해서 언제든지 필요한 정보를 얻게 하기 위해서 리뉴얼을 기획했습니다. 사용언어는 하나의 코드로 ios ,android 앱을 동시 개발할 수 있는 React-Native를 사용했습니다.
 &nbsp; &nbsp; 앱스토어에는 연간 개발자 등록비 13만원을 지불할 자금이 부족하여 출시를 일시중단 한 상황이며, 현 총학생회장과의 면담을 통해 지원금을 얻어 출시 할 예정입니다!<br>
@@ -31,7 +31,12 @@
 </pre>
 ![ex_screenshot](./img/jedaero.png) <br> 
 
-### 2. GIFT ( repo: https://github.com/g-i-f-t/GiftApplication )<br>
+### 2. 캐글(Kaggle) 타이타닉 컴피티션 밋업
+&nbsp; &nbsp; 캐글코리아에서 주최한 '타이타닉 생존자 예측'대회에 참여해서 직접 데이터 분석을 하고 모델링을 해서 정확도를 검증해 대회에 제출하기 까지에 과정을 발표하는 모임을 가졌습니다.
+- **개발 정보: python, jupyter , pandas 개발 기간: 2019.02 - 2019.03** <br>
+![ex_screenshot](./img/machine_learning.png) <br>
+
+### 3. GIFT ( 저장소: https://github.com/g-i-f-t/GiftApplication )<br>
 &nbsp; &nbsp; GIFT( Game Industy Funding Trade )는 인디게임을 출시하고 싶지만 초기자본을 구하기 어려운 개발자들을 위해서 크라우드 펀딩을 통해 자금을 지원하는 서비스입니다.
 - **개발 정보: SpringBoot, Android , mariaDB 개발 기간: 2019.04.10 - 2019.06.11** <br>
 <pre>
@@ -43,10 +48,7 @@
 </pre>
 ![ex_screenshot](./img/gift.png)  <br>
 
-### 3. 캐글 타이타닉 컴피티션 밋업
-&nbsp; &nbsp; 
-
-### 4. 아두이노 가습기 원격 제어 시스템( https://github.com/rbrbrb7290/Arduino )
+### 4. 아두이노 가습기 원격 제어 시스템( 저장소: https://github.com/rbrbrb7290/Arduino )
 &nbsp; &nbsp;  고압전류가 흘러서 위험할 수도 있는 멀티탭 전원 개조 시도!
 
 
