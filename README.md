@@ -19,21 +19,21 @@
 1. 제대로 가자 (https://github.com/aerain/jedaeroReactNative)<br> 
 &nbsp; &nbsp; 기존에 만들었던 제주대학교에 다양한 정보를 제공하는 웹앱인 '제대로 가자'의 서버 상시 오픈의 문제점과 프론트엔드와 백엔드의 알고리즘의 문제점을 고치고, 앱을 통해서 언제든지 필요한 정보를 얻게 하기 위해서 리뉴얼을 기획했습니다. 사용언어는 하나의 코드로 ios ,android 앱을 동시 개발할 수 있는 React-Native를 사용했습니다.
 &nbsp; &nbsp; 앱스토어에는 연간 개발자 등록비 13만원을 지불할 자금이 부족하여 출시를 일시중단 한 상황이며, 현 총학생회장과의 면담을 통해 지원금을 얻어 출시 할 예정입니다!
-
 <pre>
  - 교내 순환버스 출발시간
  - 도서관 내 도서검색
- - 학식 및 기숙사식당 주간 요일별 메뉴
- - 캠퍼스 내 식당들과 배달 가능 식당 전화번호 리다이렉션
  - 제주대 공식 학사일정
- - 스마트출석 페이지 리다이렉션
+ - 학식 및 기숙사식당 주간 요일별 메뉴
+ - 스마트출석 페이지 re-Direction
+ - 캠퍼스 내 식당들과 배달 가능 식당 전화번호 re-Direction
 </pre>
-
 ![ex_screenshot](./img/jedaero.png)  
 
 2. GIFT ( https://github.com/g-i-f-t/GiftApplication )
-&nbsp; &nbsp; GIFT( Game Industy Funding Trade )는 인디게임을 출시하고 싶지만 초기자본을 구하기 어려운 개발자들을 크라우드 펀딩을 통해 자금을 서비스입니다. 
-프로젝트 초반 DB제작을 완성하고 앱 백엔드작업에 투입했습니다. 
+&nbsp; &nbsp; GIFT( Game Industy Funding Trade )는 인디게임을 출시하고 싶지만 초기자본을 구하기 어려운 개발자들을 위해서 크라우드 펀딩을 통해 자금을 지원하는 서비스입니다.
+개발: Android
+![ex_screenshot](./img/gift.png)  
+
 
 
 3. 캐글 타이타닉 컴피티션 밋업
