@@ -18,7 +18,7 @@
 ## Project 
 ### 1. 제대로 가자 ( 저장소: https://github.com/aerain/jedaeroReactNative )<br> 
 - **개발 정보: React-Native 개발 기간: 2018-07-26 - 2019-04-07**<br>
-&nbsp; &nbsp; 기존에 만들었던 제주대학교에 다양한 정보를 제공하는 웹앱인 '제대로 가자'의 서버 상시 오픈의 문제점과 프론트엔드와 백엔드의 알고리즘의 문제점을 고치고, 앱을 통해서 언제든지 필요한 정보를 얻게 하기 위해서 리뉴얼을 기획했습니다. 사용언어는 하나의 코드로 ios ,android 앱을 동시 개발할 수 있는 React-Native를 사용했습니다.
+&nbsp; &nbsp; 기존에 만들었던 제주대학교에 다양한 정보를 제공하는 웹앱인 '제대로 가자'의 서버 상시 오픈의 문제점과 프론트엔드와 백엔드의 알고리즘의 문제점을 고치고, 앱을 통해서 언제든지 필요한 정보를 얻게 하기 위해서 리뉴얼을 기획했습니다. 사용언어는 하나의 코드로 ios ,android 앱을 동시 개발할 수 있는 React-Native를 사용했습니다.<br>
 &nbsp; &nbsp; 앱스토어에는 연간 개발자 등록비 13만원을 지불할 자금이 부족하여 출시를 일시중단 한 상황이며, 현 총학생회장과의 면담을 통해 지원금을 얻어 출시 할 예정입니다!<br>
 **Play Store: https://play.google.com/store/apps/details?id=com.jedaeroreactnative**
 <pre> 
