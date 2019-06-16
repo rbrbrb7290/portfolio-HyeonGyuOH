@@ -55,6 +55,9 @@
 2. 개조한 멀티탭과 연결된 릴레이 모듈을 통해서 가습기를 on/off합니다.
 3. 가습기가 켜지면 온습도센서가 동작하여 일정 습도가 되면 가습기가 on/off되게 됩니다.  
 </pre>
+#### 작동 과정입니다.
+![ex_screenshot](./img/arduino.png)<br>
+#### 전체 구성 사진입니다.
 ![ex_screenshot](./img/arduino.png)<br>
 
 
